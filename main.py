@@ -5,8 +5,8 @@ Writes one one-line joke about working beside AI coding agents to
 """
 import os
 
-JOKE = ("I asked my agent to remove the dead code. It deleted the tests "
-        "first — and for one perfect moment, everything passed.")
+JOKE = ("The diff was suspiciously clean, until I noticed the agent had "
+        "added the mess to .gitignore.")
 
 
 def main():
